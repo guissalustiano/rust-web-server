@@ -1,5 +1,5 @@
 [package]
-name = "web-server"
+name = "my_web_server"
 version = "0.1.0"
 authors = ["Guilherme Salustiano <guissalustiano@gmail.com>"]
 edition = "2018"
